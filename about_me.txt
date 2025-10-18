@@ -1,0 +1,3 @@
+Hello! My name is Krishna Teja.
+I am a Computer Science student passionate about backend development and open-source projects.
+This is a simple demo project for my GitHub competency assignment.
