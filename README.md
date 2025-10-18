@@ -12,5 +12,5 @@ This project shows how to:
 - Create and commit files
 - Track changes with Git
 - Push a repository to GitHub
-- Work with branches and merges
+- Work with branches and merges in Git.
 
