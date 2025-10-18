@@ -11,6 +11,6 @@ Welcome to my simple GitHub project created to demonstrate version control skill
 This project shows how to:
 - Create and commit files
 - Track changes with Git
-- Push a repository to GitHub
+- Push a repository into GitHub
 - Work with branches and merges in Git.
 
